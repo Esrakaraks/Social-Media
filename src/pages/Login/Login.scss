@@ -1,0 +1,16 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+
+    &__action {
+        margin-top: 20px;
+
+        .signup-action {
+            color: #1887cb;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+    }
+}

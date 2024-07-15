@@ -1,0 +1,15 @@
+.header {
+    background-color: #F5F5F5 ;
+    height: 70px;
+
+    &__title {
+        text-transform: uppercase;
+        color: #1887cb;
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+    &__text {
+        cursor: pointer;
+    }
+}
